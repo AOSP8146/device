@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "4916149"
+    target: "kernel"
+    source_file: "Image.gz-dtb"
+  }
+  dest_file: "Image.gz-dtb"
+  version: "Linux version 3.10.73-gc9d2cb4 (android-build@abfarm343) (gcc version 4.9.x-google 20140827 (prerelease) (GCC) ) #1 SMP PREEMPT Fri Jul 27 01:05:43 UTC 2018"
+  version_group: "kernel"
+  git_project: "device/huawei/angler-kernel"
+}
